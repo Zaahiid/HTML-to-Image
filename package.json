@@ -1,0 +1,14 @@
+{
+  "name": "html2image",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zahid Sheikh",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "html-to-image": "^1.11.11"
+  }
+}
